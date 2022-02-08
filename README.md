@@ -1,4 +1,4 @@
-### Hi there 👋
+### Thanks for checking this out!
 
 <!--
 **Zack-Robertshaw/Zack-Robertshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
