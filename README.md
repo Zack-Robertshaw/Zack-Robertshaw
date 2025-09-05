@@ -1,4 +1,4 @@
-### "You ain't goona learn what you don't want to know" - B. Weir
+### "You ain't gonna learn what you don't want to know" - B. Weir
 
 <!--
 **Zack-Robertshaw/Zack-Robertshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
